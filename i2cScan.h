@@ -7,7 +7,7 @@
     //
 
 
-// vers quelel liaison série émettre ?
+// vers quelle liaison série émettre ?
 #define SerialScan Serial
 
 
